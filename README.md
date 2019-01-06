@@ -1,2 +1,2 @@
 # Snake
-A simple snake game in C#
+A simple snake game in various languages
